@@ -9,12 +9,15 @@
  - 本科/西北工业大学/计算机科学与技术
  - 工作年限：15年
  - GitHub：https://github.com/dudongdong ( ``` 多年无内容 ```  )
- - 期望职位：Android高级程序员，应用架构师
+ - 期望职位：资深程序员（c++/java），架构师
  - 期望薪资：税前月薪35k~50k，特别喜欢的公司可例外
  - 期望城市：南京
 ---
+## 广州万联生物科技公司 （ 2023年7月 ~ 至今 ）
+### 食品安全检测端到端解决方案
+- 作为技术总监，负责10人规模的团队研发管理工作，从零建立起来了团队研发流程规范，基于.net framework平台构建，支撑公司面向政府农产品检测，团餐企业等客户提供快检，食品安全追溯等解决方案
 # 工作经历
-## 华为软件技术公司 （ 2011年6月 ~ 至今 ）
+## 华为软件技术公司 （ 2011年6月 ~ 2023年6月 ）
 ### 华为浏览器项目
 - 作为committer，2023年2月参与了浏览器迭代需求开发，涉及开屏广告优化、百度搜索sdk接入需求开发和编码，这段经验让我加深了Android应用启动过程理解和相关systrace工具使用经验
 ### 华为云空间项目
@@ -40,6 +43,7 @@
 - Android开发: Java/android/OkHttp/Android studio/framework/HTTPS/json/restfull/
 - Web开发：Js/Nodejs/Html/css/jquery/mobile/webkit/phonegap/AngularJS/Bootstrap/express/ngix
 - C++移动应用：C++/Objective-C/MFC/gdi/ace/Linux/Wince/Symbian/Windows/iOS
+- 数据库相关：SQlite/Mysql
 - 版本管理、文档和自动化部署工具：Svn/Git/Vss
 ---
 # 致谢
